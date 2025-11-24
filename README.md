@@ -22,7 +22,7 @@ I'll post most likely stuff related to Power Query and Fabric's notebooks. Stay 
   [Cesta Do Fabricu w/ Jiří Neoral](https://open.spotify.com/show/3MnQaKErciKtURvBEiEcxH?si=76b40aba9e684d00)
 
 - **Discord community**  
-  [Data & Chill CZ/SK](https://open.spotify.com/show/3MnQaKErciKtURvBEiEcxH?si=76b40aba9e684d00)
+  [Data & Chill CZ/SK](https://discord.gg/vzMXWgZKbh)
 
 ---
 
