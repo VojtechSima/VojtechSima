@@ -4,6 +4,8 @@ I am a Power BI guy
 
 I'll post most likely stuff related to Power Query and Fabric's notebooks. Stay tuned.
 
+[Check my latest repo](https://github.com/VojtechSima/jira-cloud-powerquery-connector/tree/main)
+
 ---
 
 ##  Where to find me
